@@ -1,4 +1,3 @@
-##                       Virtual DARIAH-Workshop 
 ##          Network Analysis with Python for Beginners
 
 
