@@ -1,38 +1,33 @@
-## Welcome to GitHub Pages: NO TEST
-
-You can use the [editor on GitHub](https://github.com/ieg-dhr/networks_python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Virtual DARIAH-Workshop Network Analysis with Python for Beginners
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On 24/25.02.2021, the Leibniz Institute of European History hosts a DARIAH-DE workshop on network analysis using the Python programming language. The workshop is organised by Dr. Demival Vasques, a member of the DH Lab and specialist in network science. 
 
-### Markdown
+On the first day, the workshop will introduce the quantitative foundations of network analysis and specific Python libraries. On the second day, the participants will create and analyse a network using the provided data. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The workshop is suited for beginners in both network analysis and Python. However, participants should acquaint themselves with Python's syntax in advance. We will provide the links to the learning materials by the beginning of February.
 
-```markdown
-Syntax highlighted code block
+The workshop is designed as a hands-on session with tutoring, therefore we can only admit 15 participants. The admission is on the first-come-first-served basis and is open until 04.02.2021. The working language is English. If you want to take part, please send a short email to digital@ieg-mainz.de with the subject “Networks with Python”, explaining your background and reasons for participation. The workshop is free of charge.
+ 
 
-# Network Analysis with Python
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Network Analysis with Python:**
 
-**Bold** and _Italic_ and `Code` text
+Date: 24.+ 25.02.21
+Where: virtual (via Big Blue Button)
 
-[Link](url) and ![Image](src)
-```
+**Programm:**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 1-2 weeks before the workshop: 
+acquire necessary knowledge on Python syntax (links to materials will be provided)
 
-### Jekyll Themes
+- Day 1:
+10 - 12 am: introduction and demonstartion (synchronous learning)
+13 - 16:30 pm: preparing of own projects (asynchronous learning)
+14:00-14:30, 16:00-16:30: Virtual office hours 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ieg-dhr/networks_python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Day 2:
+10 -12 am: presentation of the results 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
