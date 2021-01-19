@@ -7,7 +7,7 @@ On the first day, the workshop will introduce the quantitative foundations of ne
 
 The workshop is suited for beginners in both network analysis and Python. However, participants should acquaint themselves with Python's syntax in advance. We will provide the links to the learning materials by the beginning of February.
 
-The workshop is designed as a **hands-on session with tutoring**, therefore we can only admit 15 participants. The admission is on the first-come-first-served basis and is open until **10.02.2021**. The working language is English. If you want to take part, please send a short email to digital@ieg-mainz.de with the subject “Networks with Python”, explaining your background and reasons for participation. The workshop is free of charge.
+The workshop is designed as a **hands-on session with tutoring**, therefore we can only admit 15 participants. The admission is on the first-come-first-served basis and is open until **10.02.2021**. The working language is English. If you want to take part, please send a short email to **digital@ieg-mainz.de** with the subject “Networks with Python”, explaining your background and reasons for participation. The workshop is free of charge.
  
 
 **Date: 24.+ 25.02.21 <br/>
