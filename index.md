@@ -10,7 +10,7 @@ The workshop is suited for beginners in both network analysis and Python. Howeve
 The workshop is designed as a **hands-on session with tutoring**, therefore we can only admit 15 participants. The admission is on the first-come-first-served basis and is open until **10.02.2021**. The working language is English. If you want to take part, please send a short email to digital@ieg-mainz.de with the subject “Networks with Python”, explaining your background and reasons for participation. The workshop is free of charge.
  
 
-**Date: 24.+ 25.02.21
+**Date: 24.+ 25.02.21 <br/>
 Where: virtual (via Big Blue Button)**
 
    **Programm:**
