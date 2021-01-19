@@ -28,4 +28,4 @@ acquire necessary knowledge on Python's syntax (links to materials will be provi
 
  **Organizers:**
  - Dr. Demival Vasques: [ResearchGate](https://www.researchgate.net/profile/Demival_Vasques_Filho)
- - Anna Aschauer. M.A.: (ORCID)[https://orcid.org/0000-0001-5446-9080]
+ - Anna Aschauer. M.A.: [ORCID](https://orcid.org/0000-0001-5446-9080)
