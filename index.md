@@ -21,7 +21,7 @@ acquire necessary knowledge on Python's syntax (links to materials will be provi
 
 - Day 1:
 10 - 12 am: introduction and demonstartion (synchronous learning) <br/>
-13 - 16:30 pm: preparing of own projects (asynchronous learning) <br/>
+13 - 16:30 pm: preparing own projects (asynchronous learning) <br/>
 14:00-14:30, 16:00-16:30: Virtual office hours 
 
 - Day 2:
