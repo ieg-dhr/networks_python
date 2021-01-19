@@ -28,5 +28,5 @@ acquire necessary knowledge on Python's syntax (links to materials will be provi
 10 -12 am: presentation of the results 
 
  Organizers: 
- - Dr. Demival Vasques: [researchgate] (https://www.researchgate.net/profile/Demival_Vasques_Filho)
- - Anna Aschauer. M.A.: [ORCID] (https://orcid.org/0000-0001-5446-9080)
+ - Dr. Demival Vasques: researchgate [https://www.researchgate.net/profile/Demival_Vasques_Filho]
+ - Anna Aschauer. M.A.: ORCID [https://orcid.org/0000-0001-5446-9080]
