@@ -28,7 +28,7 @@ acquire necessary knowledge on Python's syntax (links to materials will be provi
 
 **Preparation:**
 - Important: install and get comfartable with Anaconda3. It contains all packages we will need (Jupyter notebooks included)
-- On our GitHub - https://github.com/ieg-dhr/ieg_workshops/tree/master/2021_02_networks_python - there are 2 Jupyter Notebooks: 
+- There are 2 Jupyter Notebooks on our GitHub repository - https://github.com/ieg-dhr/ieg_workshops/tree/master/2021_02_networks_python :
 **Introduction_Jupyter_Python.ipynb** and **Intro_Data_Analysis_with_Python.ipynb** 
 You'll need to go through these 2 in order to be prepared. There is also a Jupyter Notebook **assignment.ipynb** if you want to check your understanding (the document is not long, you may need < 1h)
 
