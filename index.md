@@ -11,7 +11,7 @@ The workshop is designed as a **hands-on session with tutoring**, therefore we c
  
 
 **Date: 24.+ 25.02.21 <br/>
-Where: virtual (via Big Blue Button)**
+Where: virtual (via Zoom)**
 
    **Programm:**
 
@@ -25,6 +25,13 @@ acquire necessary knowledge on Python's syntax (links to materials will be provi
 
 - Day 2:
 10 -12 am: presentation of the results 
+
+**Preparation:**
+- Important: install and get comfartable with Anaconda3. It contains all packages we will need (Jupyter notebooks included)
+- On our GitHub - https://github.com/ieg-dhr/ieg_workshops/tree/master/2021_02_networks_python - there are 2 Jupyter Notebooks: 
+**Introduction_Jupyter_Python.ipynb** and **Intro_Data_Analysis_with_Python.ipynb** 
+You'll need to go through these 2 in order to be prepared. There is also a Jupyter Notebook **assignment.ipynb** if you want to check your understanding (the document is not long, you may need < 1h)
+
 
  **Organizers:**
  - Dr. Demival Vasques: [ResearchGate](https://www.researchgate.net/profile/Demival_Vasques_Filho)
